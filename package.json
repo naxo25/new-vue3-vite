@@ -1,0 +1,22 @@
+{
+  "version": "0.0.1",
+  "name": "vue3",
+  "author": "Ignacio Labra <y.labra.25@gmail.com>",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.0.5",
+    "vue-router": "4",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.2.3",
+    "@vue/compiler-sfc": "^3.0.5",
+    "config": "^3.3.6",
+    "vite": "^2.3.8"
+  }
+}
