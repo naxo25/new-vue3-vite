@@ -17,6 +17,8 @@
     "@vitejs/plugin-vue": "^1.2.3",
     "@vue/compiler-sfc": "^3.0.5",
     "config": "^3.3.6",
+    "pug": "^3.0.2",
+    "sass": "^1.35.1",
     "vite": "^2.3.8"
   }
 }

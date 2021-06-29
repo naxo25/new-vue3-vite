@@ -24,3 +24,6 @@
 ### Config
 
 	npm i config
+
+
+modify example.json to default.json
